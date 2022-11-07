@@ -1,0 +1,41 @@
+{
+    "mongo_url": "mongodb+srv://botlist:botlist@cluster0.v9coj.mongodb.net/botlist?retryWrites=true&w=majority",
+    "server": {
+        "id": "863777352847851550",
+        "invite": "https://discord.gg/mykCaTv9cQ",
+        "mod_log_id": "863788269660930078",
+        "like_log": "863788349604364309",
+        "admin_user_ids": "589154804601716838",
+        "role_ids": {
+            "bot": "863789136527097856",
+            "unverified": "864387862676766720",
+            "verified": "864387756872695810",
+
+            "bot_developer": "863790325294563348",
+            "bot_verifier": "863791581361995826"
+        }
+    },
+    "bot_options": {
+        "bot_tags": ["Mod", "eco"],
+        "max_bot_tags": 6,
+        "max_owners_count": 4,
+        "max_summary_length": 120,
+        "min_description_length": 200,
+        "max_description_length": 500
+    },
+    "discord_client": {
+        "id": "863802269135536138",
+        "secret": "w8DUHftIRVjR5Xs7l9H_O5oUGjOvkAEo",
+        "token": "ODYzODAyMjY5MTM1NTM2MTM4.YOsMjQ.SRt_jlfAWhY4xMKeK7oRDZ9UTEE",
+        "prefix": "d!"
+    },
+    "web": {
+        "domain_with_protocol": "https://north-shy-crest.glitch.me",
+        "port": 3000,
+        "ratelimit": 30,
+        "recaptcha_v2": {
+            "site_key": "6LcIs5EbAAAAAJprZGfQ1Teo5zK3GJmRmDyAxKJk",
+            "secret_key": "6LcIs5EbAAAAAH8Bz2jy4We2s97EelbLiISvG47-"
+        }
+    }
+}
